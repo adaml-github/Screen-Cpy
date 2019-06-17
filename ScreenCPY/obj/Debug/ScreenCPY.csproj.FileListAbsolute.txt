@@ -1,0 +1,16 @@
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\ScreenCPY.exe.config
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\ScreenCPY.exe
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\ScreenCPY.pdb
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.csprojAssemblyReference.cache
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.Form1.resources
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.Properties.Resources.resources
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.csproj.GenerateResource.cache
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.csproj.CoreCompileInputs.cache
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.exe
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.pdb
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\x86\liblept1753.dll
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\x86\libtesseract3052.dll
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\x64\liblept1753.dll
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\x64\libtesseract3052.dll
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\bin\Debug\Tesseract.dll
+C:\Users\imada\source\repos\ScreenCPY\ScreenCPY\obj\Debug\ScreenCPY.csproj.CopyComplete
